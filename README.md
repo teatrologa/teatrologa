@@ -13,3 +13,5 @@ Seguindo na fantasia, adoro um bom jogo de rpg de mesa (sinto muito para quem di
 E como na vida as vezes a gente rola uns bons críticos, atualmente sou Trainee Top Coders do Safra para atuar como Web Dev!
 
 Vocês podem me encontrar no <a href="https://www.linkedin.com/in/liliucastro/">LinkedIn</a>, <a href="https://instagram.com/teatrologa_">Instagram</a> ou no <a href="https://twitter.com/LiliuCastro">Twitter</a>.
+
+<img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teatrologa&layout=compact&include_all_commits=true&langs_count=7&theme=nord&hide_title=true"/>
